@@ -1,19 +1,22 @@
 ## Qui suis-je ?
 
-Salut, je suis Bastien, un développeur back end de 19ans actuellement étudiant en informatique (BUT Informatique) et développeur salarié (Développeur Web Back End). 
+Salut, je m'appelle Bastien et j'ai 19 ans. Je suis également actuellement étudiant en informatque *(BUT INFO)* et développeur salarié en entreprise *(Développeur Web backend)*.
 
-Je suis passionné d'informatique depuis mes 12ans. Et depuis cet âge, je n'ai pas cessé de bidouiller que ce soit en software ou en hardware.
+Depuis mes l'âge de mes 12 ans, je suis passionné d'informatique et ai réalisé de nombreux projets avec plus ou moins de succès dans des domaines très variés. Ce qui m'a au moins permis d'acquérir un socle de connaissances généraliste relativement solide.
 
 ## Mes outils du quotidien
 
-En qualité de développeur Back End non original, je développe essentiellement en PHP.
-Mais je maitrise également le Java, Ruby, Python, Bash, Javascript, Go, Dart ...
-Avec quelques frameworks comme RubyOnRails, Django, Flask, Flutter, Laravel ...
-Technologies auxquelles nous pouvons ajouter HTML / CSS
+* **Langages favoris :** PHP, JAVA, C, Bash, SQL, HTML/CSS
+* **Langages déjà utilisés :** Python, Ruby, GoLang, JavaScript
+* **Technologies favorites :**  Laravel, Flutter
+* **Technologies déjà utilisées :** Django, Flask, J2E
+* **IDE :** PHPStorm, IntelliJ, VSCode
+* **Environnement :** Zsh, MacOS, Linux *(ubuntu / arcolinux)*
+* **Autres logiciels :** Cyberduck, Hyper
 
 ## Mon parcours scolaire
 
-Ayant obtenu en 2021 un bac général spécialité mathématique / physique (avec option mathématique expertes) au lycée polyvalent Marguerite Yourcenar à Beuvry.
+Après avoir obtenu mon brevet en 2018, je me suis dirigé vers un bac général avec les spécialités mathématiques / physique ainsi que l'option mathématiques expertes que j'ai obtenu au lycée polyvalent Marguerite Yourcenar à Beuvry en 2021.
 
 Je suis actuellement un BUT Informatique à l'IUT de Lens, dans le but de poursuivre en licence informatique, pour pouvoir finir mon parcours en master, dans la spécialité qui m'aura le plus plu durant ma future formation.
 
@@ -23,4 +26,5 @@ J'ai rejoint à l'âge de 16ans une entreprise de sécurité privée pour pouvoi
 
 ## Me contacter
 
-**mail :** bastien@nizart.me
+* **mail :** bastien@nizart.me
+* **GitHub :** [bastien-nizart](https://github.com/bastien-nizart)
