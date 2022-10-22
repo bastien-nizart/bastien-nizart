@@ -1,8 +1,11 @@
 ## Qui suis-je ?
 
-Salut, je m'appelle Bastien et j'ai 19 ans. Je suis également actuellement étudiant en informatque *(BUT INFO)* et développeur salarié en entreprise *(Développeur Web backend)*.
+Salut, je m'appelle Bastien et j'ai 19 ans. J'ai plusieurs casquettes : 
+- Étudiant en informatique *(BUT Informatique)*
+- Développeur Back End (salarié)
+- Auto Entrepreneur
 
-Depuis mes l'âge de mes 12 ans, je suis passionné d'informatique et ai réalisé de nombreux projets avec plus ou moins de succès dans des domaines très variés. Ce qui m'a au moins permis d'acquérir un socle de connaissances généraliste relativement solide.
+Depuis l'âge de mes 12 ans, je suis passionné d'informatique et ai réalisé de nombreux projets avec plus ou moins de succès dans des domaines très variés. Ce qui m'a au moins permis d'acquérir un socle de connaissances généraliste relativement solide.
 
 ## Mes outils du quotidien
 
@@ -24,7 +27,10 @@ Je suis actuellement un BUT Informatique à l'IUT de Lens, dans le but de poursu
 
 J'ai rejoint à l'âge de 16ans une entreprise de sécurité privée pour pouvoir leur fournir des outils d'administration / gestion d'entreprise. Et suis, depuis cette date, en CDI dans cette même entreprise.
 
+Je me suis également depuis Aout 2022 lancé en tant qu'auto entrepreneur en créant Admitech. Admitech me permet de répondre au attente d'entreprise en tout genre en leur proposant des logiciels clef en main, fait sur mesure, et simple d'utilisation.
+
 ## Me contacter
 
 * **mail :** bastien@nizart.me
+* **linkedin :** [bastien-nizart](https://www.linkedin.com/in/bastien-nizart/)
 * **GitHub :** [bastien-nizart](https://github.com/bastien-nizart)
