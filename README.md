@@ -9,13 +9,13 @@ Depuis l'âge de mes 12 ans, je suis passionné d'informatique et ai réalisé d
 
 ## Mes outils du quotidien
 
-* **Langages favoris :** PHP, JAVA, C, Bash, SQL, HTML/CSS
-* **Langages déjà utilisés :** Python, Ruby, GoLang, JavaScript
+* **Langages favoris :** PHP, JAVA, Ruby, Bash, SQL, HTML/CSS
+* **Langages déjà utilisés :** Python, C, GoLang, JavaScript
 * **Technologies favorites :**  Laravel, Flutter
-* **Technologies déjà utilisées :** Django, Flask, J2E
-* **IDE :** PHPStorm, IntelliJ, VSCode
+* **Technologies déjà utilisées :** Django, Flask, HugoIo
+* **IDE :** PHPStorm, IntelliJ, VSCode, Pycharm
 * **Environnement :** Zsh, MacOS, Linux *(ubuntu / arcolinux)*
-* **Autres logiciels :** Cyberduck, Hyper
+* **Autres logiciels :** Cyberduck, Hyper, Transmit (FTP)
 
 ## Mon parcours scolaire
 
