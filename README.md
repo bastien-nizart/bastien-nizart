@@ -1,6 +1,7 @@
 ## Qui suis-je ?
 
-Salut, je m'appelle Bastien et j'ai 19 ans. J'ai plusieurs casquettes : 
+Salut, je m'appelle Bastien et j'ai 19 ans. Je suis actuellement : 
+
 - Étudiant en informatique *(BUT Informatique)*
 - Auto Entrepreneur
 
