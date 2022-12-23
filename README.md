@@ -27,6 +27,12 @@ J'ai rejoint à l'âge de 16ans une entreprise de sécurité privée pour pouvoi
 
 Je me suis également depuis Aout 2022 lancé en tant qu'auto entrepreneur en créant Admitech. Admitech me permet de répondre au attente d'entreprise en tout genre en leur proposant des logiciels clef en main, fait sur mesure, et simple d'utilisation.
 
+## Parcours Associatif
+
+Je suis, depuis novembre 2022, engagé au sein de l'AFEV en tant que mentor. Ce qui signifie que je viens en aide, 2 heures par semaine, à un collégien ayant des difficultés scolaires. 
+
+Mes missions ne se limitent pas à de l'aide aux devoirs. Mon but est de l'aiguiller vers de bonnes méthodes d'apprentissage, de le guider dans sa future orientation. Mais également de lui faire découvrir de nouvelles activités, qu'elles soient sportives, ludiques, culturelles ...
+
 ## Me contacter
 
 * **mail :** bastien@nizart.me
